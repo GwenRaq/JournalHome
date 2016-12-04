@@ -1,4 +1,4 @@
-header
+h2header
 {
 	margin-left:43%;
 }
@@ -34,4 +34,8 @@ header
 }
 p{
 	font-family: 'Dekko', cursive;
+}
+
+h2{
+	font-family: 'Nunito', sans-serif;
 }
