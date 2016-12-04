@@ -21,7 +21,7 @@ header
   border: 1px solid #9ED2FF;
   float: left;
   border-radius: 20px;
-  height: 240px;
+  height: auto;
 }
 
 .content{
