@@ -46,3 +46,8 @@ h2{
 	font-family: 'Nunito', sans-serif;
 }
 
+
+}
+nav :hover{
+  color: #F5A623;
+}
