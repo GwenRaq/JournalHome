@@ -38,7 +38,7 @@ header
 	float: left;
 }
 
-p{
+p, nav{
 	font-family: 'Dekko', cursive;
 }
 
