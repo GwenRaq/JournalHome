@@ -2,6 +2,7 @@ header
 {
 	margin-left:43%;
 	font-family: 'Lobster Two', cursive;
+	display: inline block;
 }
 
 .image{
