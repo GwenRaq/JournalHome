@@ -1,18 +1,15 @@
 header
 {
-	vertical-align: middle;
 	font-family: 'Lobster Two', cursive;
-	display: inline block;
+	margin-left:43%
 }
 
 .image{
-	vertical-align: middle;
-	display: inline-block;
+	margin-left:45%
 }
 
 .header2{
-	vertical-align: middle;
-	display: inline-block;
+	margin-left:50%
 }
 
 .aside {
