@@ -53,3 +53,30 @@ h2{
 nav :hover{
   color: #F5A623;
 }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px){
+	.content{
+		background-color:black;
+	}
+	.aside{
+		background-color:white;
+		color:lightpink;
+	}
+	header{
+		color:purple;
+	}
+}
+
+@media screen and (min-width:100px) and (max-width: 500px){
+	.container{
+		background-color:lightblue;
+	}
+	.one{
+		background-color:white;
+		color:pink;
+	}
+	header{
+		color:pink;
+	}
+}
