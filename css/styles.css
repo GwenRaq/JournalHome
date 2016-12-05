@@ -1,16 +1,16 @@
 header
 {
-	margin-left:43%;
+	vertical-align: middle;
 	font-family: 'Lobster Two', cursive;
 	display: inline block;
 }
 
 .image{
-	margin-left:43%;
+	vertical-align: middle;
 }
 
 .header2{
-	margin-left:45%
+	vertical-align: middle;
 }
 
 .aside {
