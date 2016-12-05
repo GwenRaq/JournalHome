@@ -7,10 +7,12 @@ header
 
 .image{
 	vertical-align: middle;
+	display: inline-block;
 }
 
 .header2{
 	vertical-align: middle;
+	display: inline-block;
 }
 
 .aside {
