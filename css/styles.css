@@ -12,14 +12,14 @@ header
 }
 
 .aside {
-  width: 20%;
-  background-color: #CAE1FF;
-  padding: 20px;
-  margin: 15px;
-  border: 1px solid #9ED2FF;
-  float: left;
-  border-radius: 20px;
-  height: 300px;
+	  width: 20%;
+  	background-color: #CAE1FF;
+ 	 padding: 10px;
+ 	 margin: 15px;
+  	border: 1px solid #9ED2FF;
+  	float: left;
+  	border-radius: 20px;
+  	height: 300px;
 }
 
 .content{
