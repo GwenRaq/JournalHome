@@ -1,7 +1,7 @@
 header
 {
 	font-family: 'Lobster Two', cursive;
-	margin-left:43%
+	margin-left:42%
 }
 
 .image{
@@ -14,7 +14,7 @@ header
 .aside {
 	width: 20%;
   	background-color: #CAE1FF;
- 	padding: 4px;
+ 	padding: 2px;
  	margin: 15px;
   	border: 1px solid #9ED2FF;
   	float: left;
@@ -32,7 +32,7 @@ header
 }
 
 .allpost{
-	width: 70%;
+	width: 75%;
 	float: left;
 }
 
