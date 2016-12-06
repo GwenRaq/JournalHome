@@ -61,6 +61,9 @@ h4, h2{
 	header{
 		color:purple;
 	}
+	h2{
+		color:#CAE1FF;
+	}
 }
 
 @media screen and (min-width:100px) and (max-width: 500px){
