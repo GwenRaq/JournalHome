@@ -40,18 +40,13 @@ p, nav{
 	font-family: 'Dekko', cursive;
 }
 
-h2{
-	font-family: 'Nunito', sans-serif;
-}
-
-
 }
 nav :hover{
   color: #F5A623;
 }
 }
 
-h4{
+h4, h2{
 	font-family: 'Ubuntu', sans-serif;
 }
 
