@@ -46,7 +46,10 @@ nav :hover{
 }
 }
 
-h4, h2{
+h4{
+	font-family: 'Ubuntu', sans-serif;
+}
+h2{
 	font-family: 'Ubuntu', sans-serif;
 }
 
