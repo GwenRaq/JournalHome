@@ -24,7 +24,7 @@ header
 
 .content{
 	height:auto;
-	background-color: lightpink;
+	background-color: #FF6699;
 	margin:20px;
 	border: 2px solid #000;
 	padding: 30px 30px;
@@ -70,7 +70,7 @@ h4{
 
 @media screen and (min-width:100px) and (max-width: 500px){
 	.content{
-		background-color:lightblue;
+		background-color:#CC99FF;
 	}
 	header{
 		color:pink;
