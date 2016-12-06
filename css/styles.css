@@ -19,7 +19,7 @@ header
   	border: 2px dashed #9ED2FF;
   	float: left;
   	border-radius: 20px;
-  	height: 300px;
+  	height: auto;
 }
 
 .content{
@@ -27,7 +27,7 @@ header
 	background-color: #FFCCCC;
 	margin:20px;
 	border: 2px dashed #FF6699;
-	padding: 30px 30px;
+	padding: 10px 30px;
 	border-radius: 20px;
 }
 
