@@ -1,11 +1,11 @@
 header
 {
 	font-family: 'Lobster Two', cursive;
-	margin-left:42%
+	margin-top:5%;
+	margin-bottom:5%;
 }
-
-.image{
-	margin-left:45%
+body{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/80/71/7d/80717d0d05d0a3b050c63733c9f1bd48.jpg);
 }
 .header2{
 	margin-left:45.5%
@@ -15,7 +15,7 @@ header
 	width: auto;
   	background-color: #CAE1FF;
  	padding: 10px;
- 	margin: 10px;
+ 	margin: 20px;
   	border: 2px dashed #9ED2FF;
   	float: left;
   	border-radius: 20px;
@@ -24,7 +24,7 @@ header
 
 .content{
 	height:auto;
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: lightpink;
 	margin:20px;
 	border: 2px dashed #FF6699;
 	padding: 10px 30px;
