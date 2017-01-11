@@ -24,7 +24,7 @@ header
 
 .content{
 	height:auto;
-	background-color: #FFCCCC;
+	background-color: rgba(0, 0, 0, 0.5);
 	margin:20px;
 	border: 2px dashed #FF6699;
 	padding: 10px 30px;
