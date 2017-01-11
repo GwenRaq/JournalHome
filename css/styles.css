@@ -1,25 +1,16 @@
 header
 {
 	font-family: 'Lobster Two', cursive;
-	margin-top:5%;
-	margin-bottom:5%;
+	margin-top:2%;
+	margin-bottom:2%;
 }
-body{
+.image{
 	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/80/71/7d/80717d0d05d0a3b050c63733c9f1bd48.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
 }
 .header2{
 	margin-left:45.5%
-}
-
-.aside {
-	width: auto;
-  	background-color: #CAE1FF;
- 	padding: 10px;
- 	margin: 20px;
-  	border: 2px dashed #9ED2FF;
-  	float: left;
-  	border-radius: 20px;
-  	height: auto;
 }
 
 .content{
@@ -32,7 +23,7 @@ body{
 }
 
 .allpost{
-	width: 73%;
+	width: 60%;
 	float: left;
 }
 
