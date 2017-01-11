@@ -4,14 +4,12 @@ header
 	margin-top:2%;
 	margin-bottom:2%;
 }
-.Neko{
+body{
 	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/80/71/7d/80717d0d05d0a3b050c63733c9f1bd48.jpg);
 	background-repeat: no-repeat;
 	background-position: bottom right;
 	background-attachment: fixed;
-	background-size: contain;
-	height: 700px;
-	width: 500px;
+	background-size: 50% 70%;
 }
 .header2{
 	margin-left:45.5%
