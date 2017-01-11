@@ -9,6 +9,7 @@ body{
 	background-repeat: no-repeat;
 	background-position: bottom right;
 	background-attachment: fixed;
+	background-size: 600px 800px;
 }
 .header2{
 	margin-left:45.5%
