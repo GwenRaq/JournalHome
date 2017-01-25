@@ -4,6 +4,11 @@ header
 	margin-bottom:2%;
 	color: white;
 }
+
+#about{
+	float-right: 15%;
+}
+
 body{
 	background-image: url(http://oi67.tinypic.com/lzaxe.jpg);
 	background-repeat: no-repeat;
@@ -34,8 +39,8 @@ p, nav{
 }
 
 }
-nav :hover{
-  color: #F5A623;
+.second:hover{
+  background-color: #F5A623;
 }
 }
 
@@ -44,6 +49,16 @@ h4{
 }
 h2{
 	font-family: 'Ubuntu', sans-serif;
+}
+
+.content{
+    animation-name: hue;
+    animation-duration: 10s;
+    border-radius: 8px;
+}
+@keyframes hue{
+    from {background-color: white;}
+    to {background-color: lightpink;}
 }
 
 @media screen and (min-width: 800px) and (max-width: 1000px){
